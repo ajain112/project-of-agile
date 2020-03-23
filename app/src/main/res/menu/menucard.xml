@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/profile"
+        android:title="Profile"/>
+    <item
+        android:id="@+id/Doctors"
+        android:title="Doctors"/>
+    <item
+        android:id="@+id/counslor"
+        android:title="Counslor"/>
+    <item
+        android:id="@+id/contact"
+        android:title="Contact Us"/>
+    <item
+        android:id="@+id/sign"
+        android:title="SignIN/SignUp"/>
+</menu>
